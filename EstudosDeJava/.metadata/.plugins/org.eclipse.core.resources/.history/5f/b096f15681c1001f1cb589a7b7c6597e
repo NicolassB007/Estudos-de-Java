@@ -6,13 +6,7 @@ public class NotacaoPonto {
 		String s = "Isto é uma STRING";
 		s = s.toUpperCase();
 		s = s.replace("STRING", "string");
-		s = s.concat(" final!!");
 		
 		System.out.println(s);
-		
-		System.out.println("Nicolas".toUpperCase());
-		
-		String y = "Bom dia X".replace("X", "Nicolas").concat("!!");
-		System.out.println(y);
-	}	
+	}
 }

@@ -12,7 +12,6 @@ public class NotacaoPonto {
 		
 		System.out.println("Nicolas".toUpperCase());
 		
-		String y = "Bom dia X".replace("X", "Nicolas").concat("!!");
-		System.out.println(y);
+		String y = "Bom dia X".replace(("X"), "Nicolas");
 	}	
 }
