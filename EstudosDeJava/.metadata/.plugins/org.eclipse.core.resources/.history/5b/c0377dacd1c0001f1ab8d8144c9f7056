@@ -1,0 +1,12 @@
+package fundamentos;
+
+public class Inferencias {
+	public static void main(String[] args) {
+		double a = 4.5;
+		System.out.println(a);
+	
+		// The Java itself will go give a type for variable below
+		var b = 4.5;
+		System.out.println(b);
+	}
+}

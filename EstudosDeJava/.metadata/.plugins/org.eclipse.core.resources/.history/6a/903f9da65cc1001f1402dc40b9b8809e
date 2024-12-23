@@ -1,0 +1,10 @@
+package fundamentos;
+
+public class TiposPrimitivos {
+	public static void main(String[] args) {
+		// Staff Information
+		
+		// Whole numeric type
+		// Byte, Short, int and long
+	}
+}

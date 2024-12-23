@@ -1,0 +1,14 @@
+package fundamentos;
+
+public class TiposPrimitivos {
+	public static void main(String[] args) {
+		// Staff Information
+		
+		// Whole numeric type
+		// Byte, Short, int and long;
+		
+		byte anosDeEmpresa = 23;
+		short numeroDeVoos = 542;
+		int id = 56789;
+	}
+}

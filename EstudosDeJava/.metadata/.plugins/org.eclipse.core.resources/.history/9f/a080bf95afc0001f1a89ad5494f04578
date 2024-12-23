@@ -1,0 +1,8 @@
+package fundamentos;
+
+public class Comentarios {
+	public static void main(String[] args) {
+		// Isto é um comentário
+		System.out.println("Acima tem um comentário");
+	}
+}

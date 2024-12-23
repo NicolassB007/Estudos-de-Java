@@ -1,0 +1,7 @@
+package fundamentos;
+
+public class Variaveis_e_Constantes {
+	public static void main(String[] args) {
+		
+	}
+}

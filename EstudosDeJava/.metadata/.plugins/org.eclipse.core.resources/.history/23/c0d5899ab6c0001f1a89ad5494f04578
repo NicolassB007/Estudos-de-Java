@@ -1,0 +1,10 @@
+package exercicios;
+// Converting Fahrenheit to Celsius;
+
+public class ex01 {
+	public static void main(String[] args) {
+		double temp_Fahrenheit;
+		final int temp_formula = 32;
+		final double divisao_formula = 5.0 / 9.0;
+	}
+}

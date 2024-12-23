@@ -1,0 +1,8 @@
+package fundamentos;
+// Learning about Variable and Constants
+
+public class Variaveis_e_Constantes {
+	public static void main(String[] args) {
+		int raio;
+	}
+}

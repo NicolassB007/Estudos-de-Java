@@ -1,0 +1,12 @@
+package fundamentos;
+// Learning about Variable and Constants
+
+public class Variaveis_e_Constantes {
+	public static void main(String[] args) {
+		double raio = 3;
+		final double valor_pi = 3.14159;
+		double area = valor_pi * (raio * raio);
+		
+		System.out.println(area);
+	}
+}
