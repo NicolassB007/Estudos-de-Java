@@ -1,0 +1,11 @@
+package fundamentos;
+
+public class ConversaoTiposPrimitivos {
+	public static void main(String[] args) {
+		double a = 1; // Implicit conversion;
+		System.out.println(a);
+		
+		float b = (float) 1.0; // Explicit conversion (CAST);
+		System.out.println(b);
+	}
+}
