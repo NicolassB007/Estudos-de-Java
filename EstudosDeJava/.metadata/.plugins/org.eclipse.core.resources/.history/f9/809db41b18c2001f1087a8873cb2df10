@@ -1,0 +1,16 @@
+package desafios;
+// Conversion challenge
+
+import java.util.Scanner;
+public class Desafio02 {
+	public static void main(String[] args) {
+		Scanner leituraDados = new Scanner(System.in);
+		
+		System.out.print("Primeiro salário: ");
+		leituraDados.nextLine();
+		System.out.print("Segundo salário: ");
+		leituraDados.nextLine();
+		System.out.print("Terceiro salário: ");
+		leituraDados.nextLine();
+	}
+}
