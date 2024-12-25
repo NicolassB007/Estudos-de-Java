@@ -1,0 +1,12 @@
+package desafios;
+// Arithmetic challenge
+
+public class Desafio03 {
+	public static void main(String[] args) {
+		int contaParte1 = (int) Math.pow((6 * (3 + 2)), 2);
+		int contaParte2 = 3 * 2;
+		double contaFinal = contaParte1 / contaParte2;
+		System.out.printf("O resultado de [6 * (3 + 2)] ^ 2 é %.2f",
+				contaFinal);
+	}
+}

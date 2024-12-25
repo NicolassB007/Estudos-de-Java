@@ -1,0 +1,10 @@
+package fundamentos;
+
+public class OperadoresAritmeticos {
+	public static void main(String[] args) {
+		System.out.println(2 + 4);
+		
+		var x = 31.04;
+		double y = 2.4;
+	}
+}

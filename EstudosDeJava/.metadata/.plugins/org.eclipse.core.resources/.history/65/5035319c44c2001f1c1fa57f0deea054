@@ -1,0 +1,8 @@
+package desafios;
+// Arithmetic challenge
+
+public class Desafio03 {
+	public static void main(String[] args) {
+		int conta_parte1 = (int) Math.pow((6 * (3 + 2)), 2) ;
+	}
+}
