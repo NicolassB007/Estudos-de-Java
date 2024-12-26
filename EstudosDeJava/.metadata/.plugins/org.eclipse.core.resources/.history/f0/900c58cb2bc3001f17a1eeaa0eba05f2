@@ -1,0 +1,7 @@
+package fundamentos;
+
+public class TiposStringsEquals {
+	public static void main(String[] args) {
+		
+	}
+}

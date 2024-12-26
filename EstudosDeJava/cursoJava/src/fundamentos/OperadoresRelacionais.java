@@ -11,6 +11,6 @@ public class OperadoresRelacionais {
 		System.out.println(2 >= 4);
 		System.out.println(3 >= 3);
 		System.out.println(2 <= 2);
-		
+		System.out.println(10 != 2);
 	}
 }
