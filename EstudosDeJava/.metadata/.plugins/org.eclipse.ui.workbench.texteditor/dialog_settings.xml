@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="&#x09;&#x09;System.out.println(&quot;Seu nome é &quot; + nome + &quot; &quot; + sobreNome);"/>
+		<item key="selection" value="&#x09;&#x09;System.out.print(&quot;Qual operação será feita (APENAS o sinal): &quot;);"/>
 		<list key="findhistory">
+			<item value="&#x09;&#x09;System.out.print(&quot;Qual operação será feita (APENAS o sinal): &quot;);"/>
 			<item value="&#x09;&#x09;System.out.println(&quot;Seu nome é &quot; + nome + &quot; &quot; + sobreNome);"/>
 		</list>
 	</section>
